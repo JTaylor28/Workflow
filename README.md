@@ -1,7 +1,7 @@
 # New Project
 
 ## Abstract 
-* We are figuring out what our github workflow and collaboration. 
+* We are really trying to figure this out. 
 
 ## colabs
 * James Taylor 
