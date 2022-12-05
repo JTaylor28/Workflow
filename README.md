@@ -1,7 +1,8 @@
 # New Project
 
-## Abstract
+## Abstract 
+* We are figuring out what our github workflow and collaboration. 
 
 ## colabs
-### James Taylor 
-### Lauren Seward
+* James Taylor 
+* Lauren Seward
