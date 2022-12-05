@@ -1,1 +1,7 @@
-# here is a read me 
+# New Project
+
+## Abstract
+
+## colabs
+### James Taylor 
+### Lauren Seward
